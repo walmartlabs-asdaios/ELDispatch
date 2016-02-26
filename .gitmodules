@@ -1,0 +1,3 @@
+[submodule "Carthage/Checkouts/ELFoundation"]
+	path = Carthage/Checkouts/ELFoundation
+	url = ssh://git@github.com/Electrode-iOS/ELFoundation.git
